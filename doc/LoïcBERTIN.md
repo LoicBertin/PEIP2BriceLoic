@@ -15,3 +15,5 @@ téléphone. Grâce à des sliders, nous avons contrôlé l'angle des servo-mote
 Aujourd'hui nous avons défini le nombre de servo-moteurs nécessaires pour les jambes de notre robot.
 
 ![image robot](https://sc01.alicdn.com/kf/HTB1_dTJOVXXXXcvXFXXq6xXFXXXp/200587235/HTB1_dTJOVXXXXcvXFXXq6xXFXXXp.jpg)
+
+J'ai également décortiqué les pièces déjà présentes dans la salle afin de les réassembler en quelque chose de plus cohérent pour notre projet. Il semblerait que nous possédons déjà les bases des jambes, cependant il manque les pieds.

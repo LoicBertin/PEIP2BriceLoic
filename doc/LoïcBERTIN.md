@@ -17,3 +17,7 @@ Aujourd'hui nous avons défini le nombre de servo-moteurs nécessaires pour les 
 ![image robot](https://sc01.alicdn.com/kf/HTB1_dTJOVXXXXcvXFXXq6xXFXXXp/200587235/HTB1_dTJOVXXXXcvXFXXq6xXFXXXp.jpg)
 
 J'ai également décortiqué les pièces déjà présentes dans la salle afin de les réassembler en quelque chose de plus cohérent pour notre projet. Il semblerait que nous possédons déjà les bases des jambes, cependant il manque les pieds.
+
+* Séance du 15 janvier 2018
+
+Aujourd'hui nous avons repensé le design du bipède afin de faciliter son déplacement.Nous avons également commencer à voir le code Arduino pour la marche simple. J'ai ensuite ramené le robot chez moi et j'ai fini le montage.

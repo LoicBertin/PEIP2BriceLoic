@@ -18,3 +18,8 @@ Ajouts possible:
  
  • Scéance du 22 Janvier
  -----------------------
+
+Présentation se deroule bien (je trouve). On attaque la premiere vrai marche.
+Tentative de developer le mouvement sur une jambe. Il avance mais tourne.
+Deux jambes successive align le deplacement. 
+IL MARCHE!!

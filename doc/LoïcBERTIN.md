@@ -21,3 +21,7 @@ J'ai également décortiqué les pièces déjà présentes dans la salle afin de
 * Séance du 15 janvier 2018
 
 Aujourd'hui nous avons repensé le design du bipède afin de faciliter son déplacement.Nous avons également commencer à voir le code Arduino pour la marche simple. J'ai ensuite ramené le robot chez moi et j'ai fini le montage.
+
+* Séance du 22 janvier 2018
+
+Après la présentation orale, nous avons bien avancer la marche droite de notre robot, il a réussi à se déplacer sur une trentaine de centimètre avant de chuter.

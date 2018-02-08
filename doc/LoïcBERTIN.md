@@ -25,3 +25,9 @@ Aujourd'hui nous avons repensé le design du bipède afin de faciliter son dépl
 * Séance du 22 janvier 2018
 
 Après la présentation orale, nous avons bien avancer la marche droite de notre robot, il a réussi à se déplacer sur une trentaine de centimètre avant de chuter.
+
+* Séance du 7 février 2018
+
+Aujourd'hui séance qui a fait énormément avancer le projet. Le robot sait avancer sans chuter, tourner à droite et à gauche.
+Nous avons également déplacé la plaque ainsi que la carte sur le dessus du robot pour ne pas qu'il soit géné durant la marche.
+Ensuite, nous avons ajouté le module Bluetooth pour qu'il soit controlé depuis le téléphone.

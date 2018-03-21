@@ -28,3 +28,10 @@ IL MARCHE!!
 ---------------------
 
 Première fonction de virage (droite et gauche). Le moteur pour la gauche (hanche ou genou pas sûr) semble moins puissant que celui de droite, le robot vire en avançant normalement tout droit. Module BlueTooth incorporé, on peut controlé son avancement!
+
+• Séance du 21 Mars
+-------------------
+
+Réglages des moteurs (jambe droite plus puissante). Ajout de "semmelles" adhésives pour aider au déplacement. Fonction marche copense la dérive à cause des puissances de moteurs differents. Le robot avance plus loin avec de plus petit pas! 
+
+Revu les fonctions de pas droit et gauche semble donner un meilleur équilibre. Jamais tombé depuis le changement.

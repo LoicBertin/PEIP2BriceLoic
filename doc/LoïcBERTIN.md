@@ -46,3 +46,5 @@ Le robot fonctionne à nouveau comme avant sans le module bluetooth. Nous lui av
 Sur cette séance, nous avons fait les présentations orales puis nous avons travaillé un peu sur le robot. Nous avons ajouté des poids sur un côté pour voir la réaction du robot et nous remarquons qu'il se soulève légèrement de ce côté là ce qui permet de déplacer l'autre jambe librement sans qu'elle n'accroche au sol.
 
 * Séance du 5 avril 2018
+
+Aujourd'hui nous avons refixé les semelles du robot et nous avons commencer la mise en place du système de contrepoids pour lever déplacer le centre des masses sur sa jambe droite ou gauche

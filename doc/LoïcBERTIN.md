@@ -31,3 +31,18 @@ Après la présentation orale, nous avons bien avancer la marche droite de notre
 Aujourd'hui séance qui a fait énormément avancer le projet. Le robot sait avancer sans chuter, tourner à droite et à gauche.
 Nous avons également déplacé la plaque ainsi que la carte sur le dessus du robot pour ne pas qu'il soit géné durant la marche.
 Ensuite, nous avons ajouté le module Bluetooth pour qu'il soit controlé depuis le téléphone.
+
+* Séance du 21 février 2018
+
+En rebranchant le robot, il a eu un comportement très particulier dû probablement à des faux-contacts ce qui nous a obligé a tout débrancher puis tout rebrancher sans le bluetooth afin de refaire les calibrages des positions de départ.
+Nous avons réinitialisé une nouvelle position de départ afin d'être plus stable.
+
+* Séance du 21 mars 2018
+
+Le robot fonctionne à nouveau comme avant sans le module bluetooth. Nous lui avons ajouté des "semmelles" afin qu'il ai une meilleure adhérence au sol et qu'il ne glisse pas sur le sol lorsqu'il tente de faire un pas.
+
+* Séance du 28 mars 2018
+
+Sur cette séance, nous avons fait les présentations orales puis nous avons travaillé un peu sur le robot. Nous avons ajouté des poids sur un côté pour voir la réaction du robot et nous remarquons qu'il se soulève légèrement de ce côté là ce qui permet de déplacer l'autre jambe librement sans qu'elle n'accroche au sol.
+
+* Séance du 5 avril 2018

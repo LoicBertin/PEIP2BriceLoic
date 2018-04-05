@@ -48,3 +48,8 @@ Revu les fonctions de pas droit et gauche semble donner un meilleur équilibre. 
 
 Présentation de l'avencement. On reste dans les temps. Annulation de la construction de bras. Chercher a mettre un poids d'équilibrage pour améliorer la levé de jambe et la démarche. 
 
+• Séance du 5 Avril
+-------------------
+
+Monté le support tige poids sur le robot. Réadésion des semelles. On va percé la tige durant le week-end pour y fixer des poids
+
